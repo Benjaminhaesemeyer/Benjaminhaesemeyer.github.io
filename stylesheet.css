@@ -1,60 +1,57 @@
-html { 
-  background: url(pines.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+html {
+    background: url(pines.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 #container {
-	margin-top: 20px;
-	margin-left: 200px;
-	margin-right: 200px;
-
-	padding: 10px 100px 10px 100px;
-
-	border-radius: 15px;
-	background-color: rgba(0,0,0,0.7);
-	color: white;
-
-	text-align: left;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 10px 100px 10px 100px;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    text-align: left;
 }
 
 #content-me {
-	font-size: 50px;
-	margin-bottom: 10px;
-	margin-top: 30px;
+    font-size: 50px;
+    margin-bottom: 10px;
+    margin-top: 30px;
 }
 
 #content-professional {
-	font-size: 50px;
-	margin-bottom: 30px;
-	margin-top: 30px;
+    font-size: 50px;
+    margin-bottom: 30px;
+    margin-top: 30px;
 }
 
 h1 {
-	font-size: 55px;
-	margin-bottom: 5px;
+    font-size: 55px;
+    margin-bottom: 5px;
 }
 
 h2 {
-	font-size: 18px;
-	margin-bottom: -5px;
-	margin-top: -5px;
+    font-size: 18px;
+    margin-bottom: -5px;
+    margin-top: -5px;
 }
 
 h3 {
-	font-size: 33px;
-	margin-top: 10px;
-	margin-bottom: -20px;
+    font-size: 33px;
+    margin-top: 10px;
+    margin-bottom: -20px;
 }
 
 h4 {
-	font-size: 19px;
-	margin-bottom: -25px;
+    font-size: 19px;
+    margin-bottom: -25px;
 }
 
 li {
-	font-size: 18px;
-	text-align: left;
+    font-size: 18px;
+    text-align: left;
 }
