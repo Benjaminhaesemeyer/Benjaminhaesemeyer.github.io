@@ -20,6 +20,12 @@ html {
 	text-align: left;
 }
 
+#content-me {
+	font-size: 50px;
+	margin-bottom: 10px;
+	margin-top: 30px;
+}
+
 #content-professional {
 	font-size: 50px;
 	margin-bottom: 10px;
